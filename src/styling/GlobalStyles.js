@@ -18,6 +18,19 @@ const GlobalStyles = createGlobalStyle`
     --fw-600: 600;
     --fw-700: 700;
 
+    // Spacing 
+    --spacing-4: 0.4rem;
+    --spacing-8: 0.8rem;
+    --spacing-16: 1.6rem;
+    --spacing-24: 2.4rem;
+    --spacing-32: 3.2rem;
+    --spacing-40: 4rem;
+    --spacing-56: 5.6rem;
+    --spacing-64: 6.4rem;
+    --spacing-80: 8rem;
+    --spacing-88: 8.8rem;
+    --spacing-104: 10.4rem;
+
     // Other 
 
     // Breakpoints
