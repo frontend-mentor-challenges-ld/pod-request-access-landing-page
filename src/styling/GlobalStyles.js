@@ -14,9 +14,8 @@ const GlobalStyles = createGlobalStyle`
     // Fonts
     --chivo: "Chivo", sans-serif;;
 
-    --fw-400: 400;
-    --fw-600: 600;
-    --fw-700: 700;
+    --fw-light: 300;
+    --fw-bold: 700;
 
     // Spacing 
     --spacing-4: 0.4rem;
