@@ -57,7 +57,7 @@ const GlobalStyles = createGlobalStyle`
     font-size: 1.4rem;
     font-family: var(--chivo);
     line-height: 1.5;
-    /* background-color: var(--off-black); */
+    background-color: var(--blue-950);
   }
 
   a {
