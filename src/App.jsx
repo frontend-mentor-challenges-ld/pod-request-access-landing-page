@@ -1,10 +1,11 @@
+import Logo from "./components/Logo";
 import GlobalStyles from "./styling/GlobalStyles";
 
 function App() {
   return (
     <>
       <GlobalStyles />
-      Pod Landing Page
+      <Logo />
     </>
   );
 }
